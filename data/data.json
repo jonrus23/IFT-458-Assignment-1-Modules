@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "customerName": "John Smith",
+        "phoneNumber": "570-483-1922",
+        "address": "1889 Sycamore Street",
+        "loanAmount": "10000.00",
+        "interest": 0.01,
+        "loanTermYears": "3",
+        "loanType": "Automobile",
+        "description": "This loan was taken out to help John Smith pay for his new car"
+    }
+]
